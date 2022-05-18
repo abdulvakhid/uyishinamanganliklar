@@ -1,0 +1,80 @@
+
+.logotip{
+    background:  #FFFFFF;
+}
+header{
+    background-color: #F6F6F6;
+}
+.entry{
+    color: #FFF;
+    background: #7296EC;
+}
+
+.currency-item{
+color: #2959CE;;
+}
+
+.language{
+    background: #DCE6FF;
+}
+
+.language_item_avtive{
+    color:  #000000;
+    background: #FFFFFF;;
+}
+
+.items{
+    color: #7F7F7F;
+}
+
+main{
+background-color: #fff
+}
+ 
+ul{
+    list-style: none;
+}
+
+li{
+    color: #000000;
+     text-decoration: none;
+     background-color: #EEEEEE;;
+ }
+p{
+    color: #4A4B4C;
+}
+ a{
+    color: #000000;
+     text-decoration: none;
+ }
+
+.link {
+    color: #FFF;
+    background: #F78B3B;
+}
+   
+.more_information{
+    background:  #EAEAEA;
+}
+
+footer{
+    background-color: #7297EF;
+    color: #FFFFFF;
+}
+
+.item_site{
+    background: #7297EF;
+}
+.item_site_active{
+    background: #7297EF;
+}
+
+.network{
+    background-color : #7297EF;
+}
+
+
+
+
+
+
